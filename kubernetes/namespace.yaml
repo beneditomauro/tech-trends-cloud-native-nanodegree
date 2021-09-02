@@ -1,7 +1,7 @@
 ## Set the API endpoint used to create the Deployment resource.
 apiVersion: apps/v1
-## Define the type of the resource.
+
 kind: Namespace
-## Set the parameters that make the object identifiable, such as its name, namespace, and labels.
+
 metadata:
   name: sandbox
